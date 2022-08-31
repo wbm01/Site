@@ -1,0 +1,126 @@
+    @font-face{
+    font-family:CooperplateLight
+    src:url('COPRGTL.ttf')
+    }
+
+    #telefone {
+    font-size: 21px;
+	padding-top: 912px;
+	padding-left: 290px;
+    z-index: 4;
+    position: absolute;
+}     
+    #telefoneimg {
+	padding-top: 915px;
+	padding-left: 250px;
+    z-index: 4;
+    position: absolute;
+}
+    #whats {
+    font-size: 21px;
+	padding-top: 912px;
+	padding-left: 520px;
+    z-index: 4;
+    position: absolute;
+}     
+    #whatsimg {
+	padding-top: 915px;
+	padding-left: 480px;
+    z-index: 4;
+    position: absolute;
+}
+    #instagram {
+	padding-top: 915px;
+	padding-left: 720px;
+    z-index: 5;
+    position: absolute;
+}
+        
+    #facebook {
+	padding-top: 915px;
+	padding-left: 780px;
+    z-index: 5;
+    position: absolute;
+}
+        
+    #home a {
+    color: white;
+    transition: color 0.3s linear;
+    padding-top: 50px;
+	padding-left: 600px;
+    text-decoration: none;
+    z-index: 15;
+    font-size: 25px;
+    position: absolute;
+}
+
+    #home a:hover {
+    color: gray;
+}
+
+    #home a:active {
+    color: yellow;
+}
+        
+    #cardapio a {
+    color: yellow;
+    text-decoration: none;
+	padding-top: 50px;
+	padding-left: 830px;
+    z-index: 14;
+    position: absolute;
+    font-size: 25px;
+}
+        
+    #sobre a{
+    color: white;
+    transition: color 0.3s linear;
+	padding-top: 50px;
+	padding-left: 1120px;
+    z-index: 13;
+    position: absolute;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+    #sobre a:hover{
+    color: gray;
+}
+
+    #sobre a:active{
+    color: yellow;
+}
+        
+    #reservas a {
+    color: white;
+    text-decoration: none;
+	padding-top: 50px;
+	padding-left: 1370px;
+    z-index: 12;
+    position: absolute;
+    font-size: 25px;
+}
+
+    #reservas a:hover{
+    color: gray;
+}
+
+    #reservas a:active{
+    color: yellow;
+}
+        
+    #cardtitulo {
+	padding-top: 150px;
+	padding-left: 210px;
+    z-index: 13;
+    position: absolute;
+    font-size: 40px;
+}
+        
+    #bolinhas {
+	padding-top: 190px;
+	padding-left: 210px;
+    z-index: 14;
+    position: absolute;
+    font-size: 30px;
+}

@@ -1,0 +1,59 @@
+    @font-face{
+    font-family:CooperplateLight
+    src:url('COPRGTL.ttf')
+    }
+
+    #telefone {
+    font-size: 21px;
+	padding-top: 912px;
+	padding-left: 290px;
+    z-index: 4;
+    position: absolute;
+}     
+    #telefoneimg {
+	padding-top: 915px;
+	padding-left: 250px;
+    z-index: 4;
+    position: absolute;
+}
+    #whats {
+    font-size: 21px;
+	padding-top: 912px;
+	padding-left: 520px;
+    z-index: 4;
+    position: absolute;
+}     
+    #whatsimg {
+	padding-top: 915px;
+	padding-left: 480px;
+    z-index: 4;
+    position: absolute;
+}
+    #instagram {
+	padding-top: 915px;
+	padding-left: 720px;
+    z-index: 5;
+    position: absolute;
+}
+        
+    #facebook {
+	padding-top: 915px;
+	padding-left: 780px;
+    z-index: 5;
+    position: absolute;
+}
+    
+    #conheca a {
+    color: white;
+    transition: color 0.5s linear;
+    background: black;
+	top: 610px;
+	left: 810px;
+    z-index: 7;
+    position: absolute;
+    font-size: 29px;
+}
+
+#conheca a:hover{
+    color: yellow;
+}
