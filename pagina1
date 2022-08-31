@@ -1,0 +1,76 @@
+<meta charset="utf-8"/>
+
+<html>
+    <head>
+        
+        <title>Bar do Lé - Ibitinga/SP</title>
+        
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        
+    <link rel="stylesheet" type="text/css" href="folha1.css"/>
+        
+        <script src="http://code.jquery.com/jquery-1.8.2.js"></script>
+        <script src="http://code.jquery.com/ui/1.9.0/jquery-ui.js"></script>
+        
+    <script>
+        $(function() {
+        $("input[type=submit], a, button").button();
+                    });
+    </script>
+        
+        <link href="https://fonts.googleapis.com/css?family=Noto+Serif+TC" rel="stylesheet">
+        <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.0/themes/base/jquery-ui.css" />
+        
+          
+    </head>
+
+    <body>
+    
+    <div id="telefone">
+	   <p style="color: white">(16) 3321-0000</p>
+    </div>
+    
+    <div id="telefoneimg">
+	   <hl><img src="telefone.png" alt="Telefone"></hl>
+    </div>
+    
+    <div id="whats">
+	   <p style="color: white">(16) 99123-0000</p>
+    </div>
+    
+    <div id="whatsimg">
+	   <hl><img src="whatsimg.png" alt="Whatsapp"></hl>
+    </div>
+    
+        <p style="padding-top: 906px; padding-left: 850px; z-index:4; position: absolute; color: white; font-size: 25px;">
+        |</p>
+    
+        <p style="padding-top: 912px; padding-left: 880px; z-index:4; position: absolute; color: white; font-size: 21px;">
+        Rua Domingos Robert, 1026 - Centro</p>
+    
+        <p style="padding-top: 906px; padding-left: 1250px; z-index:4; position: absolute; color: white; font-size: 25px;">
+        |</p>
+    
+        <p style="padding-top: 912px; padding-left: 1280px; z-index:4; position: absolute; color: white; font-size: 21px;">
+        Segunda a Sábado, 17h30 a 00h30</p>
+        
+    <img style="position:absolute; height: 100%; width: 100%; z-index: 1;" src="fotocapa1.jpg"class="img-float">
+        
+    <div id="conheca">
+        <a href="pagina2.html" style="height: 70px; width: 350px;">CONHEÇA O BAR</a>
+    </div>
+        
+    <img style="position:absolute; height: 948px; width: 1900px; z-index: 1;" src="fotocapa1.jpg"class="img-float">
+    <img style="position:absolute; left:625px; top:270px; z-index: 2;" src="logo.png"class="img-float">
+        
+    <a href="http://www.instagram.com" alt="Instagram" target="_blank"><img src="instagram.png" style="padding-top: 905px; padding-left: 701px; z-index: 6; position: absolute"></a>
+        
+    <a href="http://www.facebook.com.br" alt="Facebook" target="_blank"><img src="facebook.png" style="padding-top: 905px; padding-left: 718px; z-index: 5; position: absolute"></a>
+    
+    <div style="background: black; position: absolute;z-index:2; height: 65px; width: 1920px;top: 901px;">
+    </div>
+        
+    </body>
+    
+    
+</html>
